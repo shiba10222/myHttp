@@ -8,7 +8,7 @@
     "dev":"nodemon index.mjs shiba shiba10222"
     
   },
-  "author": "",
+  "author": "shiba10222",
   "license": "ISC",
   "description": "",
   "devDependencies": {
